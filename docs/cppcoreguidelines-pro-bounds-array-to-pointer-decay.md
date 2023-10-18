@@ -28,3 +28,4 @@ https://github.com/llvm/llvm-project/commit/670de10f9deaa83f4d1db6e793c74cbfd18c
 
 ### cppcoreguidelines-pro-bounds-array-to-pointer-decay handling __PRETTY_FUNCTION__
 https://github.com/llvm/llvm-project/issues/28854
+Closed by: https://reviews.llvm.org/D158244
